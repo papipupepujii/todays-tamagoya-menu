@@ -1,0 +1,14 @@
+{
+  "name": "Today's Tamagoya",
+  "manifest_version": 2,
+  "version": "1.1.1",
+  "description": "今日の玉子屋メニューをつぶやきます。Ver1.1.1でメニュー読込みタイムアウト時間を延長しました。",
+  "browser_action": {
+    "default_icon": "img/icon.gif",
+    "default_title": "今日の玉子屋は…",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://api.twitter.com/"
+  ]
+}

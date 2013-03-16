@@ -1,0 +1,29 @@
+body {
+	background-image: url('../img/background.png');
+	opacity: 0.8;
+	min-width: 300px;
+	min-height: 100px;
+}
+
+#header {
+	color: #484848;
+	font-size: 18px;
+	font-family: 'Sniglet', cursive;
+	margin: 3px;
+}
+
+#tweet {
+	font-size: 12px;
+	margin: 10px;
+}
+
+#line {
+	border-width: 1px;
+	border-color: gray;
+	border-style: solid;
+}
+
+#info {
+	font-size: 10px;
+	margin: 5px 15px;
+}
