@@ -5,7 +5,7 @@ Today's tamagoya menu
 使い方
 -------------
 * プロジェクトをダウンロードします。  
-`$ git clone git://github.com/papipupepujii/todays-tamagoya-menu`  
+`$ git clone git://github.com/papipupepujii/todays-tamagoya-menu.git`  
 `$ cd todays-tamagoya-menu`
 
 * [require.js](http://requirejs.org/) でプロジェクトの optimization をします。  
